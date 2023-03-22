@@ -52,6 +52,18 @@ Meskipun program ini tidak menggunakan database, namun ArrayList dapat menyimpan
 
 6. RegEx (Regular Expression) - merupakan sebuah library untuk melakukan validasi data dengan menggunakan pola atau regular expression.
 
+### Alur Program
+
+Program ini berjalan sebagai berikut:
+
+* Pengguna membuka program
+* Pengguna mengisi form untuk menambahkan atau mengedit data mahasiswa
+* Program melakukan validasi data yang dimasukkan oleh pengguna
+* Jika data valid, program menambahkan atau mengedit data pada list mahasiswa
+* Jika data tidak valid, program menampilkan pesan error dan meminta pengguna untuk mengisi kembali form
+* Jika pengguna memilih data pada tabel, program mengisi form dengan data yang dipilih
+* Pengguna dapat menghapus data yang dipilih dengan menekan tombol "Delete"
+* Program menampilkan daftar seluruh data mahasiswa pada tabel
 
 ### Executing program
 
@@ -64,4 +76,23 @@ Meskipun program ini tidak menggunakan database, namun ArrayList dapat menyimpan
 Program ini masih bersifat sederhana dan dapat dikembangkan lebih lanjut sesuai kebutuhan. Program ini juga dapat disesuaikan dengan menggunakan database yang berbeda atau mengubah tampilan antarmuka grafisnya.
 
 ### Screenshot Program
-![alt text](LATIHAN5DPBO2023/Screenshots/1.jpeg "Tampilan Awal")
+* Tampilan Awal
+
+![alt text](Screenshots/1.jpeg "Tampilan Awal")
+
+* Tambah Data
+
+![alt text](Screenshots/3.jpeg "Tambah Data")
+
+* Memuat Tabel (refresh setelah CRUD DATA)
+
+![alt text](Screenshots/4.jpeg "Memuat Tabel")
+
+* Validasi Data
+
+![alt text](Screenshots/5.jpeg "Validasi Data")
+
+* Konfirmasi Hapus Data
+
+![alt text](Screenshots/7.jpeg "Konfirmasi Hapus Data")
+
