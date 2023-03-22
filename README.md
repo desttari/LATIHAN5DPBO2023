@@ -2,7 +2,7 @@
 
 Latihan 5 DPBO Program Java sederhana dengan GUI NetBeans untuk Daftar Mahasiswa
 
-##Janji
+## Janji
 
 Saya Destira Lestari Saraswati NIM 2100506 mengerjakan soal Latihan 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
@@ -63,5 +63,5 @@ Meskipun program ini tidak menggunakan database, namun ArrayList dapat menyimpan
 
 Program ini masih bersifat sederhana dan dapat dikembangkan lebih lanjut sesuai kebutuhan. Program ini juga dapat disesuaikan dengan menggunakan database yang berbeda atau mengubah tampilan antarmuka grafisnya.
 
-### Screenshoot Program
+### Screenshot Program
 ![alt text](LATIHAN5DPBO2023/Screenshots/1.jpeg "Tampilan Awal")
