@@ -2,6 +2,10 @@
 
 Latihan 5 DPBO Program Java sederhana dengan GUI NetBeans untuk Daftar Mahasiswa
 
+##Janji
+
+Saya Destira Lestari Saraswati NIM 2100506 mengerjakan soal Latihan 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 ## Description
 
 Program ini merupakan aplikasi desktop sederhana yang digunakan untuk memasukkan, mengubah, dan menghapus data mahasiswa pada sebuah tabel. Dalam program ini, pengguna dapat menambahkan data mahasiswa baru, mengedit data mahasiswa yang sudah ada, menghapus data mahasiswa, dan melihat daftar seluruh data mahasiswa yang telah disimpan.
@@ -60,4 +64,4 @@ Meskipun program ini tidak menggunakan database, namun ArrayList dapat menyimpan
 Program ini masih bersifat sederhana dan dapat dikembangkan lebih lanjut sesuai kebutuhan. Program ini juga dapat disesuaikan dengan menggunakan database yang berbeda atau mengubah tampilan antarmuka grafisnya.
 
 ### Screenshoot Program
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Tampilan Awal")
+![alt text](LATIHAN5DPBO2023/Screenshots/1.jpeg "Tampilan Awal")
